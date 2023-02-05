@@ -1,0 +1,40 @@
+#title {
+    color: gold;
+    text-align: center;
+    font-weight: 800;
+    font-size: 54px;
+    text-decoration: underline;
+}
+
+* {
+    background-color: rgb(42, 105, 42);
+}
+
+ul {
+font-size: 45px;
+list-style-type: none;
+position: relative; left: 10px;
+}
+
+#hyper1 {
+    color: gold;
+    font-weight: bold;
+    position: relative; top: 50px;
+}
+
+#hyper2 {
+    color: gold;
+    font-weight: bold;
+    position: relative; top: 100px
+}
+
+#hyper3 {
+    color: gold;
+    font-weight: bold;
+    position: relative; top: 150px
+}
+
+#baylor {
+position: relative; left: 50px;
+position: relative; top: 200px;
+}
